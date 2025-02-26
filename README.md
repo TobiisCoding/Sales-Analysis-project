@@ -91,6 +91,7 @@ The total profit over the past six years was approximately 42 million dollars. T
 # Comparative Analysis
 This report compares revenue across years, with the ability to drill down to months, countries, and even states. The United States generated the most revenue among countries, with California leading as the top state. Australia followed, with New South Wales contributing the highest revenue within that country. By year, 2015 stood out as the most lucrative, with the fourth quarter—particularly December—bringing in the most revenue.
 
+## Report in pdf [download](https://1drv.ms/b/c/4c7f2cf47ea4e6aa/Ed44LB9VRsNHv8hJcHRSLNMBh9BP2RD87z9fShmNHThEoQ?e=jexXs7)
 
 ### Limitations 
 1. It should be noted that the report was generated using a data source from a third party.
