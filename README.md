@@ -65,21 +65,40 @@ I started the initial data preparation phase, by performing the following task;
     
 ### Results/Findings 
 
+# Sales Performance Insight:
+Over a six-year period, total sales reached 95 million naira, with June and December being the months when most sales occurred. Among the six years, 2015 recorded the highest sales, while 2011 and 2012 had the lowest, with each year generating 10 million naira. Of the three product categories sold, bikes led with $69,208,196 in sales, followed by accessories with $16,712,646, and clothing in third place with $9,255,476 in revenue.
+
+Total Sales by Country:
+United States: $30,814,774  
+Australia: $25,427,586  
+United Kingdom: $11,090,006  
+Germany: $9,982,203  
+France: $9,847,213  
+Canada: $8,014,536
+
+From the report, it’s clear that the United States generated the highest sales, while Canada had the lowest.
 
 
+# Customer Insight:
+
+Customer demographics were analyzed by sex and age group. Male customers accounted for 51.59% of the total, while female customers made up 48.41%. In terms of sales, male customers contributed approximately 48 million naira, and female customers accounted for about 47 million naira.
+Age distribution was divided into four categories across both sexes: adults (35–64), young adults (25–34), youth (under 25), and seniors (64+). Analysis shows that adults generated the most sales, with their figures dominating across all product categories. Seniors, on the other hand, produced the least, contributing only about $340,000 over the six years.
 
 
+# Profitability Insight
+The total profit over the past six years was approximately 42 million dollars. The highest profit was recorded in 2015 at just over 10 million dollars, while the lowest was in 2011 at around 4 million dollars. Canada had the highest profit margin at 47.37%, while Australia had the lowest at 42.87%. The data also reveals a direct correlation between average unit cost and product price, which makes sense—higher-cost products tend to have higher prices, and vice versa.
 
+# Comparative Analysis
+This report compares revenue across years, with the ability to drill down to months, countries, and even states. The United States generated the most revenue among countries, with California leading as the top state. Australia followed, with New South Wales contributing the highest revenue within that country. By year, 2015 stood out as the most lucrative, with the fourth quarter—particularly December—bringing in the most revenue.
 
 
 ### Limitations 
-things that might have affected the quality of limitations 
-
-
-
+1. It should be noted that the report was generated using a data source from a third party.
+2. The sales report is not complete, its 2016 data stops at July 2016. 
 
 
 ### Recommendations 
+From my findings it is clear that the United States and Australia generate the most revenue and profit, I will encourage them to make sure that they keep targeting the market there especially the age groups that fall within the adult group 34-64.
 
 
 ### References 
