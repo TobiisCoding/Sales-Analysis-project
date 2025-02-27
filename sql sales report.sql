@@ -41,6 +41,10 @@ FROM sales
 GROUP BY country, product_category
 order by country desc;
 
+-- SALES BY PRODUCT 
+SELECT product, order_quantity, (order_quantity * unit_price) as Revenue, 
+	(order_quantity * unit_price - order_quantity * unit_cost) as profit
+from sales 
 
 -- MONTHLY SALES TREND PROFIT
 SELECT month,
