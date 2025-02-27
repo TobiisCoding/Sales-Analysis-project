@@ -89,7 +89,7 @@ Age distribution was divided into four categories across both sexes: adults (35�
 The total profit over the past six years was approximately 42 million dollars. The highest profit was recorded in 2015 at just over 10 million dollars, while the lowest was in 2011 at around 4 million dollars. Canada had the highest profit margin at 47.37%, while Australia had the lowest at 42.87%. The data also reveals a direct correlation between average unit cost and product price, which makes sense—higher-cost products tend to have higher prices, and vice versa.
 
 # Comparative Analysis
-This report compares revenue across years, with the ability to drill down to months, countries, and even states. The United States generated the most revenue among countries, with California leading as the top state. Australia followed, with New South Wales contributing the highest revenue within that country. By year, 2015 stood out as the most lucrative, with the fourth quarter—particularly December—bringing in the most revenue.
+This report compares revenue across years, with the ability to drill down to months, countries, and even states. My findings show there was a steady increase in profit over the years and most of it comes between June and December and the product category of bikes made the most sales followed by accessories and clothing, The United States generated the most revenue among countries, with California leading as the top state in bikes this could be because it is a mostly warm state. Australia followed, with New South Wales contributing the highest revenue within that country. The year, 2015 stood out as the most lucrative, with the fourth quarter—particularly December also bringing it as much revenue as June.
 
 ## Report in pdf [download](https://1drv.ms/b/c/4c7f2cf47ea4e6aa/Ed44LB9VRsNHv8hJcHRSLNMBh9BP2RD87z9fShmNHThEoQ?e=jexXs7)
 
@@ -99,7 +99,7 @@ This report compares revenue across years, with the ability to drill down to mon
 
 
 ### Recommendations 
-From my findings it is clear that the United States and Australia generate the most revenue and profit, I will encourage them to make sure that they keep targeting the market there especially the age groups that fall within the adult group 34-64.
+From my findings it is clear that the United States and Canada have the highest profit margins though the difference between them and other regions is much, I will encourage them to make sure that they keep targeting the market there, especially the age groups that fall within the adult group 34-64.
 
 
 ### References 
