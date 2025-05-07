@@ -49,7 +49,7 @@ I started the initial data preparation phase, by performing the following task;
 2. POWER BI - VISUALISATION - [File](https://1drv.ms/u/c/4c7f2cf47ea4e6aa/EZmP-zAyPBNNgYNOd5Q-ZHsBNBHE3XMGIL_1xYiVhFxz-A?e=Yy3r8X)
     - Sales performance insight
     - Customer insights
-    - profitability Reports
+    - Profitability Reports
     - Comparative Analysis
   
   3. Python - 
@@ -57,7 +57,7 @@ I started the initial data preparation phase, by performing the following task;
      - Monthly sales revenue and visualization
      - yearly sales revenue and visualization
      - Customer count by age group
-     - correlation analysis of  customer sex and revenue
+     - Correlation analysis of  customer sex and revenue
      - correlation analysis of month and revenue
      - Top ten products sold
      - Bottom ten products sold
